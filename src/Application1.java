@@ -8,6 +8,7 @@ import java.io.*;
 /**
  *
  * @author Jérôme
+ * @author Ludovic
  */
 public class Application1 {
 
